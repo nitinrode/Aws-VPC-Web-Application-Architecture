@@ -13,7 +13,7 @@ access the internet through a NAT Gateway without having a public IP.
 
 # Architecture Diagram
 
-![AWS Network Architecture](AWS%20Web%20Application%20network%20Architecture.png)
+![AWS Network Architecture](Architecture.png)
  
 ### Architecture Flow
 
